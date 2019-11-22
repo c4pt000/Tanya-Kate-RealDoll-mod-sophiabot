@@ -8,6 +8,8 @@ Tanya-KateTTS-RealDoll-mod-sophiabot
 
 ```git clone https://github.com/c4pt000/Tanya-KateTTS-RealDoll-mod-sophiabot/
 
+
+
 ```sh deploy-docker-and-build.sh
 
 ```cd /opt/Tanya-Kate-realdoll
@@ -18,3 +20,6 @@ Tanya-KateTTS-RealDoll-mod-sophiabot
 
 
 https://github.com/c4pt000/Tanya-KateTTS-RealDoll-mod-sophiabot
+
+<p align="center"><img src="https://i.imgur.com/RLgtbsH.png" width="1280"></p>
+
