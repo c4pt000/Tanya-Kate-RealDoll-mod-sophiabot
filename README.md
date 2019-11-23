@@ -20,5 +20,5 @@ clone of marilyn rebrand-name->
 
 * https://github.com/c4pt000/Tanya-KateTTS-RealDoll-mod-sophiabot
 
-<p align="center"><img src="https://i.imgur.com/RLgtbsH.png" width="640"></p>
+<p align="center"><img src="https://i.imgur.com/RLgtbsH.png" width="300"></p>
 
