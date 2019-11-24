@@ -101,3 +101,5 @@ sophia.z.longsheet.aiml	DO YOU HAVE ANY TALENTS <THAT> * <TOPIC> *	-12.792495881
 sophia.z.longsheet.aiml	WHO WOULD YOU LIKE TO MEET <THAT> * <TOPIC> *	-12.7924958813852
 sophia.z.longsheet.aiml	DO YOU BELIEVE IN FAIRIES <THAT> * <TOPIC> *	-12.7924958813852
 sophia.z.longsheet.aiml	DO YOU WANT TO EXPERIENCE HUMAN EMOTION <THAT> * <TOPIC> *	-12.7924958813852
+
+discovered to remove
