@@ -3,5 +3,5 @@
 xhost SI:localuser:root
 mkdir -p /home/developer
 
-docker build -t tanya-kate-mod . --no-cache
+docker build -t tanya-kate . --no-cache
 docker run -it --rm -e DISPLAY=$DISPLAY -v /tmp/.X11-unix:/tmp/.X11-unix --device /dev/snd c4pt/tanya-sophiabot-mod
