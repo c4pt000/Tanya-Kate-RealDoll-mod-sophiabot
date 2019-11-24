@@ -1,4 +1,4 @@
-FROM c4pt/tanya-kate-rmzxbr
+FROM c4pt/tanya-kate-moreremoval
 
 
 
