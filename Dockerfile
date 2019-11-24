@@ -1,5 +1,4 @@
-FROM c4pt/tanya-longsheet-removing
-
+FROM c4pt/tanya-removal-drugs-mp
 
 
 
