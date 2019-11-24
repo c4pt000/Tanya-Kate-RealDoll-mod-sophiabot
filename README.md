@@ -1,5 +1,7 @@
 11-24-2019
 # * WIP 11-24-2019.
+
+removing generic/mp*.aiml files bizaree black humor
 <br>
 wip
 <br>
