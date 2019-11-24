@@ -1,10 +1,13 @@
+11-24-2019
+todo
+* fix time and date errors based on docker remote server NTP out of location time zone
+
 # Tanya-KateTTS-RealDoll-mod-sophiabot
 Tanya-KateTextToSpeech-RealDoll-mod-sophiabot
 
 clone of marilyn monroe rebrand-name->
 
-todo
-* fix time and date errors based on docker remote server NTP out of location time zone
+
 
 * 11-22-2019
 * fedora 31
