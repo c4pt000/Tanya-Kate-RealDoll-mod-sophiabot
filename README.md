@@ -2,6 +2,7 @@
 wip
 longsheet removal for black expressionality "deeper fo shizzle expression removal from original Sophia Bot"
 xfind removal
+sophia.personality generic -> removal part of longshet as possible false positive of longsheet character template
 
 todo
 * fix time and date errors based on docker remote server NTP out of location time zone
