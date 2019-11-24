@@ -18,7 +18,7 @@ RUN export uid=0 gid=0 && \
 
 COPY pulse-client.conf /etc/pulse/client.conf
 
-
+ENTRYPOINT ["/usr/bin/tanya-kate"]
 USER developer
 ENV HOME /home/developer
 CMD /usr/bin/bash
