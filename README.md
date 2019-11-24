@@ -18,7 +18,8 @@ clone of marilyn rebrand-name->
 
 * sh 2nd_Sophia-client.sh
 
-* https://github.com/c4pt000/Tanya-KateTTS-RealDoll-mod-sophiabot
+for offline or online execution of last image
+* start.sh 
 
 <p align="center"><img src="https://i.imgur.com/RLgtbsH.png" width="300"></p>
 
