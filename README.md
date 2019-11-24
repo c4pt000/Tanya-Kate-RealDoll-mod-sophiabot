@@ -1,4 +1,8 @@
 11-24-2019
+wip
+longsheet removal for black expressionality "deeper fo shizzle expression removal from original Sophia Bot"
+xfind removal
+
 todo
 * fix time and date errors based on docker remote server NTP out of location time zone
 
