@@ -1,4 +1,4 @@
-FROM c4pt/tanya-kate-moreremoval
+FROM c4pt/tanya-longsheet-removing
 
 
 
