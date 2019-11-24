@@ -8,7 +8,7 @@ clone of marilyn rebrand-name->
 
 * cd /opt
 
-* git clone https://github.com/c4pt000/Tanya-KateTTS-RealDoll-mod-sophiabot/
+* git clone https://github.com/c4pt000/Tanya-Kate-RealDoll-mod-sophiabot
 
 * sh deploy-docker-and-build.sh
 
