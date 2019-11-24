@@ -1,6 +1,15 @@
 11-24-2019
 # * WIP 11-24-2019.
 
+none of this is my original code "neither is the Sophia-bot" script 
+I extracted the Sophia-Bot from OpenCOG as the conversation based part of the AI 
+
+reazling now bizarre some of the decisional based logic is (from OpenCOG)
+
+mp* removal
+change of interjections
+drug template removal
+
 removing generic/mp*.aiml files bizaree black humor
 <br>
 wip
