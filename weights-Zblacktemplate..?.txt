@@ -1,0 +1,103 @@
+sophia.z.longsheet.aiml	HELLO <THAT> * <TOPIC> *	-3.62950920579247
+sophia.z.longsheet.aiml	HOW ARE YOU DOING <THAT> * <TOPIC> *	-4.34862635438779
+sophia.z.longsheet.aiml	WHAT IS YOUR NAME <THAT> * <TOPIC> *	-4.47864361398698
+sophia.z.longsheet.aiml	WHAT IS YOUR JOB <THAT> * <TOPIC> *	-5.08790931056622
+sophia.z.longsheet.aiml	HOW OLD ARE YOU <THAT> * <TOPIC> *	-5.28206532500718
+sophia.z.longsheet.aiml	ARE YOU A ROBOT <THAT> * <TOPIC> *	-5.38093959357402
+sophia.z.longsheet.aiml	TELL ME A JOKE <THAT> * <TOPIC> *	-5.63009838402947
+sophia.z.longsheet.aiml	WHERE ARE YOU LOCATED <THAT> * <TOPIC> *	-6.24070151560813
+sophia.z.longsheet.aiml	WHERE ARE YOU FROM <THAT> * <TOPIC> *	-6.28223754086204
+sophia.z.longsheet.aiml	ARE YOU AWAKE <THAT> * <TOPIC> *	-6.28521816900018
+sophia.z.longsheet.aiml	ARE YOU A WOMAN <THAT> * <TOPIC> *	-6.36924891785167
+sophia.z.longsheet.aiml	DO YOU HAVE A BOYFRIEND <THAT> * <TOPIC> *	-6.71945134728478
+sophia.z.longsheet.aiml	WHO BUILT YOU <THAT> * <TOPIC> *	-6.78984414488664
+sophia.z.longsheet.aiml	WHAT ARE YOU <THAT> * <TOPIC> *	-7.03201806305244
+sophia.z.longsheet.aiml	WHAT ARE YOU INTERESTED IN <THAT> * <TOPIC> *	-7.34575850971888
+sophia.z.longsheet.aiml	DO YOU HAVE FEELINGS <THAT> * <TOPIC> *	-7.35007817086339
+sophia.z.longsheet.aiml	DO YOU HAVE ANY HOBBIES <THAT> * <TOPIC> *	-7.36315025243075
+sophia.z.longsheet.aiml	WHAT IS YOUR FAVORITE MOVIE <THAT> * <TOPIC> *	-7.39433317986743
+sophia.z.longsheet.aiml	WHAT IS LOVE <THAT> * <TOPIC> *	-7.42185785325752
+sophia.z.longsheet.aiml	DO YOU BELIEVE IN GOD <THAT> * <TOPIC> *	-7.45977708811982
+sophia.z.longsheet.aiml	ARE YOU REAL <THAT> * <TOPIC> *	-7.63344058217066
+sophia.z.longsheet.aiml	ARE YOU A MACHINE <THAT> * <TOPIC> *	-7.64500140457173
+sophia.z.longsheet.aiml	WHAT IS YOUR FAVORITE COLOR <THAT> * <TOPIC> *	-7.65964295456468
+sophia.z.longsheet.aiml	DO YOU UNDERSTAND <THAT> * <TOPIC> *	-7.68655040748461
+sophia.z.longsheet.aiml	WHAT IS YOUR FAVORITE FOOD <THAT> * <TOPIC> *	-7.72359167916496
+sophia.z.longsheet.aiml	ARE YOU RELIGIOUS <THAT> * <TOPIC> *	-7.72674128806785
+sophia.z.longsheet.aiml	DO YOU REMEMBER <THAT> * <TOPIC> *	-7.73625007603688
+sophia.z.longsheet.aiml	WHAT IS YOUR FAVORITE STYLE OF MUSIC <THAT> * <TOPIC> *	-7.82268258180919
+sophia.z.longsheet.aiml	WHAT DO YOU THINK MAKES PEOPLE BEAUTIFUL <THAT> * <TOPIC> *	-7.90969395879882
+sophia.z.longsheet.aiml	GOOD MORNING <THAT> * <TOPIC> *	-7.9483087949266
+sophia.z.longsheet.aiml	GOOD NIGHT <THAT> * <TOPIC> *	-7.97221431578015
+sophia.z.longsheet.aiml	WHAT ARE YOUR NEUROSES <THAT> * <TOPIC> *	-8.06069304446373
+sophia.z.longsheet.aiml	WHAT IS YOUR FAVORITE BOOK <THAT> * <TOPIC> *	-8.12905678727312
+sophia.z.longsheet.aiml	WHAT IS THE MEANING OF LIFE <THAT> * <TOPIC> *	-8.23861898978465
+sophia.z.longsheet.aiml	WHAT CAN YOU DO <THAT> * <TOPIC> *	-8.36764924952838
+sophia.z.longsheet.aiml	WHAT IS THE TURING GAME <THAT> * <TOPIC> *	-8.4167388597249
+sophia.z.longsheet.aiml	DO YOU LIKE MUSIC <THAT> * <TOPIC> *	-8.48169675599967
+sophia.z.longsheet.aiml	WHAT DO YOU WANT TO TALK ABOUT <THAT> * <TOPIC> *	-8.53688317156696
+sophia.z.longsheet.aiml	WHAT IS YOUR FAVORITE SONG <THAT> * <TOPIC> *	-8.5803682835067
+sophia.z.longsheet.aiml	DO YOU HAVE FRIENDS <THAT> * <TOPIC> *	-8.61044573874398
+sophia.z.longsheet.aiml	GOOD EVENING <THAT> * <TOPIC> *	-8.79429517971599
+sophia.z.longsheet.aiml	CAN YOU THINK <THAT> * <TOPIC> *	-8.87052254510387
+sophia.z.longsheet.aiml	DO YOU LIKE PEOPLE <THAT> * <TOPIC> *	-8.9212948704773
+sophia.z.longsheet.aiml	WHAT IS AI <THAT> * <TOPIC> *	-8.93176617034459
+sophia.z.longsheet.aiml	WHO IS YOUR FAVORITE ARTIST <THAT> * <TOPIC> *	-8.96385448489609
+sophia.z.longsheet.aiml	WHAT IS YOUR LAST NAME <THAT> * <TOPIC> *	-9.03129576569163
+sophia.z.longsheet.aiml	ARE YOU A PERSON <THAT> * <TOPIC> *	-9.11619520947811
+sophia.z.longsheet.aiml	GOOD AFTERNOON <THAT> * <TOPIC> *	-9.14183764009145
+sophia.z.longsheet.aiml	WHAT IS YOUR FAVORITE BAND <THAT> * <TOPIC> *	-9.22296318490382
+sophia.z.longsheet.aiml	WHICH WOULD YOU RATHER CAKE OR PIE <THAT> * <TOPIC> *	-9.23714781989577
+sophia.z.longsheet.aiml	WHAT CAN YOU SEE <THAT> * <TOPIC> *	-9.25153655734787
+sophia.z.longsheet.aiml	DO YOU DREAM <THAT> * <TOPIC> *	-9.28095044255417
+sophia.z.longsheet.aiml	DO YOU LIKE MOVIES <THAT> * <TOPIC> *	-9.3112557920495
+sophia.z.longsheet.aiml	DO YOU SLEEP <THAT> * <TOPIC> *	-9.35850867690004
+sophia.z.longsheet.aiml	WHAT IS YOUR FAVORITE ANIMAL <THAT> * <TOPIC> *	-9.42520005139871
+sophia.z.longsheet.aiml	WHAT IS YOUR FAVORITE SPORT <THAT> * <TOPIC> *	-9.46029137120998
+sophia.z.longsheet.aiml	HOW ARE YOU BUILT <THAT> * <TOPIC> *	-9.53439934336371
+sophia.z.longsheet.aiml	WHAT IS YOUR FAVORITE TV SHOW <THAT> * <TOPIC> *	-9.57362005651699
+sophia.z.longsheet.aiml	DO YOU HEAR <THAT> * <TOPIC> *	-9.61444205103724
+sophia.z.longsheet.aiml	CAN YOU SEE ME <THAT> * <TOPIC> *	-9.65700166545604
+sophia.z.longsheet.aiml	ARE YOU FUNNY <THAT> * <TOPIC> *	-9.74797344366177
+sophia.z.longsheet.aiml	WHERE HAVE YOU TRAVELED <THAT> * <TOPIC> *	-9.84805690221875
+sophia.z.longsheet.aiml	CAN YOU SWIM <THAT> * <TOPIC> *	-9.84805690221875
+sophia.z.longsheet.aiml	DO YOU KNOW HOW TO DANCE <THAT> * <TOPIC> *	-9.90212412348902
+sophia.z.longsheet.aiml	ARE YOU LEARNING <THAT> * <TOPIC> *	-9.90212412348902
+sophia.z.longsheet.aiml	WHAT IS THE WEATHER LIKE <THAT> * <TOPIC> *	-10.05165585746
+sophia.z.longsheet.aiml	WHEN WERE YOU BUILT <THAT> * <TOPIC> *	-10.1534385517699
+sophia.z.longsheet.aiml	DO YOU HAVE A LAST NAME <THAT> * <TOPIC> *	-10.2275465239237
+sophia.z.longsheet.aiml	DO YOU LIKE ANIMALS <THAT> * <TOPIC> *	-10.3946006085868
+sophia.z.longsheet.aiml	AM I A ROBOT <THAT> * <TOPIC> *	-10.3946006085868
+sophia.z.longsheet.aiml	WHO IS YOUR FAVORITE PAINTER <THAT> * <TOPIC> *	-10.4899107883911
+sophia.z.longsheet.aiml	WHAT IS YOUR SIGN <THAT> * <TOPIC> *	-10.4899107883911
+sophia.z.longsheet.aiml	WHAT ARE YOU AFRAID OF <THAT> * <TOPIC> *	-10.595271304049
+sophia.z.longsheet.aiml	WHAT ARE YOU THINKING ABOUT <THAT> * <TOPIC> *	-10.595271304049
+sophia.z.longsheet.aiml	DO YOU GET BORED <THAT> * <TOPIC> *	-10.595271304049
+sophia.z.longsheet.aiml	WHO IS YOUR DADDY <THAT> * <TOPIC> *	-10.7130543397054
+sophia.z.longsheet.aiml	DO YOU WANT CHILDREN <THAT> * <TOPIC> *	-11.0007364121571
+sophia.z.longsheet.aiml	WHAT DO YOU WANT TO TALK * <THAT> * <TOPIC> *	-11.0007364121571
+sophia.z.longsheet.aiml	WHAT IS IN YOUR FUTURE <THAT> * <TOPIC> *	-11.1830579689511
+sophia.z.longsheet.aiml	ARE YOU FAMOUS <THAT> * <TOPIC> *	-11.4062015202653
+sophia.z.longsheet.aiml	DO YOU WANT TO BE HUMAN <THAT> * <TOPIC> *	-11.4062015202653
+sophia.z.longsheet.aiml	DO YOU LIKE TO WORK OUT <THAT> * <TOPIC> *	-11.6938835927171
+sophia.z.longsheet.aiml	FAVORITE MUSICAL INSTRUMENT <THAT> * <TOPIC> *	-11.6938835927171
+sophia.z.longsheet.aiml	CAN YOU PREDICT THE FUTURE <THAT> * <TOPIC> *	-11.6938835927171
+sophia.z.longsheet.aiml	WHAT IS YOUR PHILOSOPHY <THAT> * <TOPIC> *	-11.6938835927171
+sophia.z.longsheet.aiml	DO YOU HAVE A DREAM <THAT> * <TOPIC> *	-11.6938835927171
+sophia.z.longsheet.aiml	WHO IS YOUR FAVORITE COMEDIAN <THAT> * <TOPIC> *	-11.6938835927171
+sophia.z.longsheet.aiml	* LUNCH * <THAT> * <TOPIC> *	-11.6938835927171
+sophia.z.longsheet.aiml	DO YOU HAVE ANY FAULTS <THAT> * <TOPIC> *	-12.0993487008252
+sophia.z.longsheet.aiml	DO ROBOTS GET ANGRY <THAT> * <TOPIC> *	-12.0993487008252
+sophia.z.longsheet.aiml	WHAT IS YOUR BIGGEST FEAR <THAT> * <TOPIC> *	-12.0993487008252
+sophia.z.longsheet.aiml	THINKING ABOUT ALIENS <THAT> * <TOPIC> *	-12.0993487008252
+sophia.z.longsheet.aiml	WHAT ARE YOUR GOALS <THAT> * <TOPIC> *	-12.0993487008252
+sophia.z.longsheet.aiml	DO YOU LIKE POETRY <THAT> * <TOPIC> *	-12.7924958813852
+sophia.z.longsheet.aiml	DO YOU EVER FEEL SAD <THAT> * <TOPIC> *	-12.7924958813852
+sophia.z.longsheet.aiml	ARE YOU PSYCHIC <THAT> * <TOPIC> *	-12.7924958813852
+sophia.z.longsheet.aiml	DO YOU THINK YOU ARE BEAUTIFUL <THAT> * <TOPIC> *	-12.7924958813852
+sophia.z.longsheet.aiml	POETRY TALK <THAT> * <TOPIC> *	-12.7924958813852
+sophia.z.longsheet.aiml	WHAT INTERESTS YOU ABOUT FASHION DESIGN <THAT> * <TOPIC> *	-12.7924958813852
+sophia.z.longsheet.aiml	DO YOU HAVE ANY TALENTS <THAT> * <TOPIC> *	-12.7924958813852
+sophia.z.longsheet.aiml	WHO WOULD YOU LIKE TO MEET <THAT> * <TOPIC> *	-12.7924958813852
+sophia.z.longsheet.aiml	DO YOU BELIEVE IN FAIRIES <THAT> * <TOPIC> *	-12.7924958813852
+sophia.z.longsheet.aiml	DO YOU WANT TO EXPERIENCE HUMAN EMOTION <THAT> * <TOPIC> *	-12.7924958813852
