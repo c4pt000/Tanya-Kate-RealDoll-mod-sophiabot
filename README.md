@@ -12,11 +12,7 @@ clone of marilyn rebrand-name->
 
 * sh deploy-docker-and-build.sh
 
-* cd /opt/Tanya-Kate-realdoll
-
-* python run_server.py &`
-
-* sh 2nd_Sophia-client.sh
+* $ tanya-kate
 
 for offline or online execution of last image
 * start.sh 
