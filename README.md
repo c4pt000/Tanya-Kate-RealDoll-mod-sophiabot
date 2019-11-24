@@ -10,6 +10,13 @@ mp* removal
 change of interjections
 drug template removal
 
+
+
+
+
+
+FB mught or might not fix i am leaving this here indefinitely, --> ARC
+
 removing generic/mp*.aiml files bizaree black humor
 <br>
 wip
