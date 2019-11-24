@@ -1,4 +1,4 @@
-FROM c4pt/tanya-kate-mod
+FROM c4pt/tanya-kate
 
 
 
