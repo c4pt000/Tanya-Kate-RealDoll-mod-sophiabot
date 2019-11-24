@@ -1,5 +1,5 @@
 # Tanya-KateTTS-RealDoll-mod-sophiabot
-Tanya-KateTTS-RealDoll-mod-sophiabot
+Tanya-KateTextToSpeech-RealDoll-mod-sophiabot
 
 clone of marilyn rebrand-name->
 
