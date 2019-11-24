@@ -1,4 +1,4 @@
-FROM c4pt/tanya-kate
+FROM c4pt/tanya-sophiabot-mod
 
 
 
