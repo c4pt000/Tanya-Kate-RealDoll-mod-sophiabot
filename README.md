@@ -84,3 +84,7 @@ for offline or online execution of last image
 
 <p align="center"><img src="https://i.imgur.com/RLgtbsH.png" width="300"></p>
 
+https://www.binance.com/en/buy-sell-crypto/channel-list/buy/USD/BTC/10
+
+
+on average its $5.00 USD to transmit bitcoin on most websites dealing with bitcoin 
