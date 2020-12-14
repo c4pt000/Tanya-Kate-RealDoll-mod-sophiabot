@@ -1,5 +1,5 @@
 
-# Sophia-bot
+# * broken as of current don't use to build on
 
 template build design is garbage from too many variables inter mixing into disconnected logical meanings to an extent,
 (too many chefs spoil the soup -< 
