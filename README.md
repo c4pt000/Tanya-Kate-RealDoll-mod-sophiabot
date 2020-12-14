@@ -1,5 +1,5 @@
 
-# * broken as of current don't use to build on
+# * once deployed talk to the bot with ./tanya-kate in the root directory
 
 template build design is garbage from too many variables inter mixing into disconnected logical meanings to an extent,
 (too many chefs spoil the soup -< 
