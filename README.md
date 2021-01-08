@@ -40,7 +40,7 @@ who ever OpenCOG project originally was
 https://github.com/c4pt000/Tanya-Kate-RealDoll-mod-sophiabot
 
 
-FB mught or might not fix i am leaving this here indefinitely, --> ARC
+FB might or might not fix i am leaving this here indefinitely, --> ARC
 
 
 black expression continued fo shizzle removal
@@ -51,7 +51,7 @@ black expression continued fo shizzle removal
 none of this is my original code "neither is the Sophia-bot" script 
 I extracted the Sophia-Bot from OpenCOG as the conversation based part of the AI 
 
-reazling now bizarre some of the decisional based logic is (from OpenCOG)
+reazling how bizarre some of the decisional based logic is (from OpenCOG)
 
 mp* removal
 change of interjections
@@ -62,9 +62,8 @@ drug template removal
 
 
 
-FB mught or might not fix i am leaving this here indefinitely, --> ARC
+FB might or might not fix i am leaving this here indefinitely, --> ARC
 
-removing generic/mp*.aiml files bizaree black humor
 <br>
 wip
 <br>
