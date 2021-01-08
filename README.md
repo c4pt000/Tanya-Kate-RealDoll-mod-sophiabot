@@ -40,8 +40,7 @@ who ever OpenCOG project originally was
 
 * 11-24-2019
 # * recommended don't use unless you can edit based on my realizations in the last few days Tanya-Kate 
-https://github.com/c4pt000/Tanya-Kate-RealDoll-mod-sophiabot
-
+https://github.com/c4pt000/docker-Tanya-Kate-mod-OpenCOG
 
 FB might or might not fix i am leaving this here indefinitely, --> ARC
 
@@ -79,8 +78,6 @@ sophia.personality generic -> removal part of longshet as possible false positiv
 todo
 * fix time and date errors based on docker remote server NTP out of location time zone
 
-# Tanya-KateTTS-RealDoll-mod-sophiabot
-Tanya-KateTextToSpeech-RealDoll-mod-sophiabot
 
 clone of marilyn monroe rebrand-name->
 
@@ -91,7 +88,7 @@ clone of marilyn monroe rebrand-name->
 
 * cd /opt
 
-* git clone https://github.com/c4pt000/Tanya-Kate-RealDoll-mod-sophiabot
+* git clone https://github.com/c4pt000/docker-Tanya-Kate-mod-OpenCOG
 
 * sh deploy-docker-and-build.sh
 
